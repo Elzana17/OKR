@@ -1,0 +1,51 @@
+.keyresultform {
+    padding:0;
+    border-radius:5px;
+    display:inline;
+    margin: auto;
+    text-align: center;
+    color:black;
+    width: 100%;
+}
+
+.form {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 40px;
+    margin: 0;
+    padding: 20px 15px;
+    border-radius: 10px 10px 0 0;
+}
+
+.objbtn {
+    margin-right: 22rem!important;
+    margin-left: 55rem!important;
+    margin-top: 2rem;
+    background-color:  #711E68;
+    ;
+    color: whitesmoke;
+    border-radius:10px;
+    font-size: 16px;
+
+    
+} 
+
+.createKeyResult {
+    color: #711E68;;
+    font-size: 28px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 40px;
+    margin: 0;
+    padding: 20px 15px;
+    border-radius: 10px 10px 0 0;
+   
+}
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    display: block;
+    width: 100%;
+}

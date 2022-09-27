@@ -1,0 +1,41 @@
+@import '~antd/dist/antd.css'; */
+
+.login-form-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  /* background-image: url('C:\Users\PC\OneDrive\Radna površina\test-app\src'); */
+} 
+  
+.logbg{
+width: 70%;
+
+  
+}
+
+.login-form {
+  max-width: 300px;
+  
+  float: right;
+  margin-top: 30%;
+  position: relative;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+
+.register-button {
+  width: 50%;
+ 
+}
+.login-form-button {
+  width: 50%;
+  background-color: #711E68;
+  color: whitesmoke;
+} 
+
+
